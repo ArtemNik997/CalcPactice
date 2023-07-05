@@ -1,0 +1,4 @@
+Numbers:
+ | 4 | 13 | 5 | 7 | 14 | 7 |
+Max three nums and result:
+ 14 13 7 result 1274
